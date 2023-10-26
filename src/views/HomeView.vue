@@ -15,7 +15,7 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-3xl font-semibold">Visi & Misi Desa</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
-        “Terwujudnya Desa Setu Yang Sejahtera dan Mandiri, ditopang Kinerja
+        “Terwujudnya Desa Sinarsari Yang Sejahtera dan Mandiri, ditopang Kinerja
         Aparatur yang Profesional dalam Kerangka Budaya Bangsa didasari Keimanan
         dan Ketaqwaan”
       </p>
@@ -68,8 +68,8 @@ import Sidebar from "../components/Sidebar.vue";
           majemuk dan dinamis;
         </li>
         <li>
-          10. Membina dan memantapkankehidupan gotong royongsebagai basis dan
-          modal dasar pembangunan desa, yang pada hakikatnyajuga merupakan
+          10. Membina dan memantapkan kehidupan gotong royong sebagai basis dan
+          modal dasar pembangunan desa, yang pada hakikatnya juga merupakan
           karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
         </li>
       </ul>
