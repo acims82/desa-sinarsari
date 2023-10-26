@@ -1,0 +1,7 @@
+setiap kali melakukan perubahan pada project di visual studio
+ketikan ini di terminal
+-git status
+-git add .
+-git status
+-git commit -m "catat rincian perubahan"
+-git push origin
