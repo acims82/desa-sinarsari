@@ -8,8 +8,8 @@
     <div class="ml-10 flex flex-col justify-center">
       <p class="text-white text-2xl mb-2">Profile Desa</p>
       <!-- Sesuaikan nama desa masing-masing -->
-      <p class="text-white text-3xl">Desa Sinarsari</p>
-      <p class="text-white text-3xl">Kab. Bogor</p>
+      <p class="text-lg leading-none uppercase text-white font-bold mb-2">Desa Sinarsari</p>
+      <p class="text-white text-2xl">Kecamatan Dramaga Kab. Bogor</p>
     </div>
     <div class="grid place-items-center ml-auto mr-20">
       <iframe
