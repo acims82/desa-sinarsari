@@ -2,13 +2,13 @@
   <div class="bg-green-600 h-[300px] flex">
     <img
       src="@/assets/logo-bogor.png"
-      class="w-25 h-20 opacity-60 m-10"
+      class="w-15 h-10 opacity-60 m-5"
       alt=""
     />
     <div class="ml-10 flex flex-col justify-center">
       <p class="text-white text-2xl mb-2">Profile Desa</p>
       <!-- Sesuaikan nama desa masing-masing -->
-      <p class="text-white text-2xl font-bold mb-3">Desa Sinarsari</p>
+      <p class="text-white text-3xl font-bold mb-3">Desa Sinarsari</p>
       <p class="text-white text-2xl">Kecamatan Dramaga Kab. Bogor</p>
     </div>
     <div class="grid place-items-center ml-auto mr-20">
