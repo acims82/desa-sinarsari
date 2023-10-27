@@ -2,7 +2,7 @@
   <div class="bg-green-600 h-[300px] flex">
     <img 
       src="@/assets/logo-bogor.png"
-      class="w-65 h-20 opacity-60 m-15"
+      class="w-65 h-20 opacity-60 m-10"
       alt=""
     />
     <div class="ml-10 flex flex-col justify-center">
