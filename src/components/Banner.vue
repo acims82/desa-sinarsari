@@ -1,6 +1,6 @@
 <template>
   <div class="bg-green-600 h-[300px] flex">
-    <img
+    <img class="content-center"
       src="@/assets/logo-bogor.png"
       class="w-65 h-10 opacity-60 m-5 content-center"
       alt=""
