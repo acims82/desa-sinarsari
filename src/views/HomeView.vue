@@ -15,37 +15,31 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-3xl font-semibold">Visi & Misi Desa</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
-        “Terwujudnya Desa Sinarsari Yang Sejahtera dan Mandiri, ditopang Kinerja
-        Aparatur yang Profesional dalam Kerangka Budaya Bangsa didasari Keimanan
-        dan Ketaqwaan”
+        “Membangun tata Kelola Pemerintahan Desa yang Baik, Bersih, Transparan
+        dan Akuntabel guna Mewujudkan Kehidupan Masyarakat Desa yang Adil, Makmur
+        dan Lebih Sejahtera”
       </p>
       <p class="text-lg font-semibold">Misi</p>
       <ul>
         <li>
-          1. Mengembangkan system Pemerintahan Desa yang bersih dan profesional
-          serta berorientasi pada pelayanan publik dengan prinsif kerja ikhlas,
-          lakukan sekarang dan siap turun ke lapangan;
+          1. Meningkatkan tingkat kesejehteraan untuk mencapai kehidupan yang 
+          lebih baik sehingga menjadi desa yang maju dan mandiri;
         </li>
         <li>
-          2. Meningkatkan dan memantapkan system perencanaan pembangunan desa
-          melalui pengoptimalan mekanisme musyawarah pembangunan desa dengan
-          melibatkan seluruh steackholder yang ada;
+          2. Menyelenggarakan Pemerintah Desa yang bersih, bebas dari korupsi
+          dan pungli serta penyelewengan-pengelewengan lainnya;
         </li>
         <li>
-          3. Membuat skala prioritas untuk kegiatan-kegiatan pembangunan yang
-          akan dilaksanakan baik pembangunan fisik atau non fisik, seperti
-          infrastruktur, perekonomian, keagamaan, Pendidikan dan kesehatan;
+          3. Meningkatkan kualitas jalan desa, jalan lingkungan, gang,
+          sarana keagamaan dan pendidikan serta infrastruktur lainnya;
         </li>
         <li>
-          4. Meningkatkan kemampuan dan peran serta aktif masyarakat dalam
-          mengelola pembangunan berkelanjutan secara efisisen dan efektif dengan
-          memanfaatkan potensi sumber daya yang ada, baik sumber daya alam
-          maupun sumberdaya manusia;
+          4. Mewujudkan sistem usaha mandiri melalui program pengambangan
+          Badan Usaha Milik Desa (BUMDes);
         </li>
         <li>
-          5. Meningkatkan kemampuan dan pemberdayaan Lembaga-lembaga
-          kemasyarakatan yang ada didesa atau lebih mendinamisasi dan mendukung
-          seluruh proses pembangunan;
+          5. Mengadakan pelatihan/penyuluhan kepada pelaku UMKM/kelompok masyarakat
+          guna meningkatkan sumberdaya masyarakat;
         </li>
         <li>
           6. Mendorong majunya Pendidikan formal maupun nonformal seperti
