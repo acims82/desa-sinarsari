@@ -13,8 +13,6 @@ import Sidebar from "../components/Sidebar.vue";
 
     <div class="flex-1 p-10">
       <p class="text-3xl font-semibold">Visi & Misi Desa</p>
-      <img src="@/assets/strukturdesa.jpg" alt="" />
-      <p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
         “Terwujudnya Desa Sinarsari Yang Sejahtera dan Mandiri, ditopang Kinerja
