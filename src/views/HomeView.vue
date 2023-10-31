@@ -69,8 +69,8 @@ import Sidebar from "../components/Sidebar.vue";
       </ul>
     </div>
     <div class="flex-1 p-10">
-      <p class="text-3xl font-semibold my-4">Struktur Desa</p>
-      <img src="@/assets/strukturdesa.jpg" alt="" />
+      <p class="text-3xl font-semibold my-4">Visi & Misi</p>
+      <img src="@/assets/visimisi-desa.jpg" alt="" />
     </div>
   </main>
 </template>
