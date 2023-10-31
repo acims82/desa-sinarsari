@@ -1,7 +1,7 @@
 <template>
   <div class="bg-green-600 h-[300px] flex">
     <img 
-      src="@/assets/logo-bogor.png"
+      src="@/assets/logo-kabupaten.png"
       class="w-45 h-10 opacity-60 m-5 items-center"
       alt=""
     />
