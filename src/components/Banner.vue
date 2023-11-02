@@ -2,7 +2,7 @@
   <div class="bg-green-600 h-[300px] flex">
     <img 
       src="@/assets/logo-kabupaten.png"
-      class="w-65 h-40 opacity-40 m-10 items-center"
+      class="w-45 h-50 opacity-60 m-20"
       alt=""
     />
     <div class="ml-10 flex flex-col justify-center">
