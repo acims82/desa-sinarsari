@@ -9,9 +9,16 @@ import Sidebar from "../components/Sidebar.vue";
   <Banner />
   <main class="flex">
     <Sidebar />
-    <div class="flex-1 p-10">
-      <p class="text-3xl font-semibold my-4">Struktur Desa</p>
-      <img src="@/assets/strukturdesa.jpg" alt="" />
+    <div class="grid place-items-center ml-auto mr-20">
+      <iframe
+        width="480"
+        height="260"
+        src="https://www.youtube.com/embed/NNANI6iUyWY?si=fAHFJQH8FTMM8PQZ"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+      ></iframe>
     </div>
   </main>
 </template>
