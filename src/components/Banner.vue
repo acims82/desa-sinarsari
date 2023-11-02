@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-teal-600 h-[300px] flex">
+  <div class="bg-teal-700 h-[300px] flex">
     <img 
       src="@/assets/logo-kabupaten.png"
       class="w-45 h-50 opacity-60 m-20"
