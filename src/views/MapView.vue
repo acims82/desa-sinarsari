@@ -101,7 +101,7 @@ export default {
     async loadSomeGeoJson() {
       const nextIndex = this.layerData.length;
 
-      const response = await fetch("/json-batas-desa.json");
+      const response = await fetch("/json-batas-rw.json");
       const data = await response.json();
 
       console.log(data);
@@ -152,7 +152,7 @@ export default {
   },
   async created() {
     this.loading = true;
-    const response = await fetch("/json-batas-rw.json");
+    const response = await fetch("/json-batas-desa.json");
     const data = await response.json();
     this.geojson = data;
     this.loading = false;
