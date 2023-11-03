@@ -15,7 +15,7 @@
       </p>
     </div>
 
-    <div class="ml-10 pr-100 flex flex-col justify-center">
+    <div class="h-full ml-10 pr-100 flex flex-col justify-center">
       <marquee direction='left' class="text-white"> Selamat Datang di Website Desa Sinarsari</marquee>
     </div>	
     
