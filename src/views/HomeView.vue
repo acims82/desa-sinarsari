@@ -12,7 +12,8 @@ import Sidebar from "../components/Sidebar.vue";
     <Sidebar />
 
     <div class="flex-1 p-10">
-      <p class="text-3xl font-semibold">GAMBARAN UMUM DESA SINARSARI</p><br>
+      <p class="text-3xl font-semibold">GAMBARAN UMUM DESA SINARSARI</p>
+      <br>
       <img src="@/assets/visimisi-desa.jpg" alt="" />
       <p class="text-3xl font-semibold">LETAK GEOGRAFIS</p>
       <img src="@/assets/peta-desa-2022.jpg" alt="" />
