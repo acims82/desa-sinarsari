@@ -14,6 +14,11 @@
         Kabupaten Bogor
       </p>
     </div>
+
+    <div class="ml-10 flex flex-col justify-center">
+      <marquee direction='right'> ini merupakan teks berjalan kekanan</marquee>
+    </div>	
+    
     <div class="flex items-center h-full ml-auto pr-20">
       <a class="text-lg text-white mx-4 cursor-pointer">
         <router-link to="/">Home</router-link>
