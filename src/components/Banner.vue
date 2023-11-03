@@ -22,10 +22,7 @@
         allowfullscreen
       ></iframe>
     </div>
-
-    <div class="ml-10 flex flex-col justify-center">
-      <marquee direction='right'> ini merupakan teks berjalan kekanan</marquee>
-    </div>	
+ 
   </div>
 </template>
 <style scoped>
