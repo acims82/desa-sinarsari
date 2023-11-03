@@ -6,7 +6,7 @@
       alt=""
     />
     <div class="ml-10 flex flex-col justify-center">
-      <p class="text-white text-2xl mb-2">Profile Desa</p>
+      <p class="text-white text-2xl mb-2">Profile Desa Sinarsari</p>
       <!-- Sesuaikan nama desa masing-masing -->
       <p class="text-white text-4xl font-bold mb-3">DESA SINARSARI</p>
       <p class="text-white text-2xl">Kecamatan Dramaga Kab. Bogor</p>
