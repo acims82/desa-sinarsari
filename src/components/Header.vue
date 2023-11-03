@@ -16,7 +16,7 @@
     </div>
 
     <div class="ml-40 flex flex-col justify-center">
-      <marquee direction='left' "text-white"> Selamat Datang di Website Desa Sinarsari</marquee>
+      <marquee direction='left' class="text-white"> Selamat Datang di Website Desa Sinarsari</marquee>
     </div>	
     
     <div class="flex items-center h-full ml-auto pr-20">
