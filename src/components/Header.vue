@@ -15,8 +15,8 @@
       </p>
     </div>
 
-    <div class="ml-10 flex flex-col justify-center">
-      <marquee direction='right'> ini merupakan teks berjalan kekanan</marquee>
+    <div class="ml-20 flex flex-col justify-center">
+      <marquee direction='right'> Selamat Datang di Website Desa Sinarsari</marquee>
     </div>	
     
     <div class="flex items-center h-full ml-auto pr-20">
