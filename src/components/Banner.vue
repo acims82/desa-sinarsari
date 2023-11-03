@@ -23,6 +23,10 @@
       ></iframe>
     </div>
 
+    <div class="ml-10 flex flex-col justify-center">
+      <marquee class="text-white text-2xl mb-2">Profile Desa</marquee>
+    </div>	
+	  
 <head>
     <title> contoh teks berjalan </title>
 </head>
