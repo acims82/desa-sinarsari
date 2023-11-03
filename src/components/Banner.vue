@@ -24,17 +24,8 @@
     </div>
 
     <div class="ml-10 flex flex-col justify-center">
-      <marquee class="text-white text-2xl mb-2">Profile Desa</marquee>
+      <marquee direction='right'> ini merupakan teks berjalan kekanan</marquee>
     </div>	
-	  
-<head>
-    <title> contoh teks berjalan </title>
-</head>
-<body>
-    <marquee direction='right'> ini merupakan teks berjalan kekanan</marquee>
-    <marquee direction='left'> ini merupakan teks berjalan kekiri</marquee>
-<body>
-	
   </div>
 </template>
 <style scoped>
